@@ -1,0 +1,1 @@
+Introduction to ES6 Exercises (0:36)ES6 Warm-Up - Shopping Cart (5:13)ES6 Warm-Up - Shopping Cart Solution (10:00)ES6 Warm-Up Code Interpretation  (0:30)ES6 Warm-Up Code Interpretation Solution (9:47)
